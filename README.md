@@ -32,5 +32,5 @@ Set APP's Path, by default is set to `.`
 ```
 Make sure you Pipe output to `/dev/null`
 ```sh
-FULLPATH/mysqldumper.sh | &> /dev/null
+FULLPATH/mysqldumper.sh &> /dev/null
 ```
