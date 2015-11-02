@@ -1,0 +1,665 @@
+Oct 31 16:36:19 Noes-Mac-mini mysqldumper.sh : MySQL Server is not running
+Oct 31 16:36:19 Noes-Mac-mini mysqldumper.sh : MySQL Server is not running
+Oct 31 16:36:20 Noes-Mac-mini mysqldumper.sh : MySQL Server is not running
+Oct 31 16:36:20 Noes-Mac-mini mysqldumper.sh : MySQL Server is not running
+Oct 31 16:36:38 Noes-Mac-mini mysqldumper.sh : MySQL Root Password Is Not Set, See [ /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/conf/config.sh ]
+Oct 31 16:39:21 Noes-Mac-mini mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Oct 31 16:39:21 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446334761.broncos.sql ]
+Oct 31 16:39:21 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ fuckyoumane ] [ _dump.1446334761.fuckyoumane.sql ]
+Oct 31 16:39:21 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ hehehehe ] [ _dump.1446334761.hehehehe.sql ]
+Oct 31 16:39:21 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446334761.laravel.sql ]
+Oct 31 16:39:22 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ mexico ] [ _dump.1446334761.mexico.sql ]
+Oct 31 16:39:22 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ shitballs ] [ _dump.1446334761.shitballs.sql ]
+Oct 31 16:39:22 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446334761.steelers.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446334761.broncos.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/fuckyoumane/_dump.1446334761.fuckyoumane.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/hehehehe/_dump.1446334761.hehehehe.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446334761.laravel.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/mexico/_dump.1446334761.mexico.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/shitballs/_dump.1446334761.shitballs.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446334761.steelers.sql
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446334767.broncos.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ fuckyoumane ] [ _dump.1446334767.fuckyoumane.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ hehehehe ] [ _dump.1446334767.hehehehe.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446334767.laravel.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ mexico ] [ _dump.1446334767.mexico.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ shitballs ] [ _dump.1446334767.shitballs.sql ]
+Oct 31 16:39:27 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446334767.steelers.sql ]
+Nov 01 07:51:34 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 07:54:42 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 07:54:54 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446334767.broncos.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/fuckyoumane/_dump.1446334767.fuckyoumane.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/hehehehe/_dump.1446334767.hehehehe.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446334767.laravel.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/mexico/_dump.1446334767.mexico.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/shitballs/_dump.1446334767.shitballs.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446334767.steelers.sql
+Nov 01 12:27:43 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446409663.broncos.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ fuckyoumane ] [ _dump.1446409663.fuckyoumane.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ hehehehe ] [ _dump.1446409663.hehehehe.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446409663.laravel.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ mexico ] [ _dump.1446409663.mexico.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ shitballs ] [ _dump.1446409663.shitballs.sql ]
+Nov 01 12:27:44 Noes-Mac-mini mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446409663.steelers.sql ]
+Nov 01 15:47:44 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 16:18:24 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446409663.broncos.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/fuckyoumane/_dump.1446409663.fuckyoumane.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/hehehehe/_dump.1446409663.hehehehe.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446409663.laravel.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/mexico/_dump.1446409663.mexico.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/shitballs/_dump.1446409663.shitballs.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446409663.steelers.sql
+Nov 01 16:18:24 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423504.laravel.sql ]
+Nov 01 16:18:32 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:18:32 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423504.laravel.sql
+Nov 01 16:18:32 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423512.laravel.sql ]
+Nov 01 16:20:25 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:20:25 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423512.laravel.sql
+Nov 01 16:20:25 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446423625.broncos.sql ]
+Nov 01 16:20:25 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446423625.colts.sql ]
+Nov 01 16:20:25 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423625.laravel.sql ]
+Nov 01 16:20:25 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446423625.raiders.sql ]
+Nov 01 16:20:25 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446423625.steelers.sql ]
+Nov 01 16:20:27 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:20:27 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446423625.broncos.sql
+Nov 01 16:20:27 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446423625.colts.sql
+Nov 01 16:20:27 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423625.laravel.sql
+Nov 01 16:20:27 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446423625.raiders.sql
+Nov 01 16:20:27 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446423625.steelers.sql
+Nov 01 16:20:27 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446423627.broncos.sql ]
+Nov 01 16:20:27 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446423627.colts.sql ]
+Nov 01 16:20:27 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423627.laravel.sql ]
+Nov 01 16:20:27 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446423627.raiders.sql ]
+Nov 01 16:20:27 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446423627.steelers.sql ]
+Nov 01 16:20:42 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:20:42 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446423627.broncos.sql
+Nov 01 16:20:42 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446423627.colts.sql
+Nov 01 16:20:42 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423627.laravel.sql
+Nov 01 16:20:42 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446423627.raiders.sql
+Nov 01 16:20:42 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446423627.steelers.sql
+Nov 01 16:20:42 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446423642.broncos.sql ]
+Nov 01 16:20:42 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446423642.colts.sql ]
+Nov 01 16:20:42 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423642.laravel.sql ]
+Nov 01 16:20:42 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446423642.raiders.sql ]
+Nov 01 16:20:42 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446423642.steelers.sql ]
+Nov 01 16:21:56 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:21:56 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446423642.broncos.sql
+Nov 01 16:21:56 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446423642.colts.sql
+Nov 01 16:21:56 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423642.laravel.sql
+Nov 01 16:21:56 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446423642.raiders.sql
+Nov 01 16:21:56 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446423642.steelers.sql
+Nov 01 16:21:56 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446423716.broncos.sql ]
+Nov 01 16:21:56 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446423716.colts.sql ]
+Nov 01 16:21:56 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423716.laravel.sql ]
+Nov 01 16:21:56 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446423716.raiders.sql ]
+Nov 01 16:21:56 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446423716.steelers.sql ]
+Nov 01 16:25:30 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 16:25:58 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:25:58 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446423716.broncos.sql
+Nov 01 16:25:58 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446423716.colts.sql
+Nov 01 16:25:58 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423716.laravel.sql
+Nov 01 16:25:58 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446423716.raiders.sql
+Nov 01 16:25:58 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446423716.steelers.sql
+Nov 01 16:25:58 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446423958.broncos.sql ]
+Nov 01 16:25:58 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446423958.colts.sql ]
+Nov 01 16:25:58 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446423958.laravel.sql ]
+Nov 01 16:25:58 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446423958.raiders.sql ]
+Nov 01 16:25:58 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446423958.steelers.sql ]
+Nov 01 16:26:28 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 16:28:29 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:28:29 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446423958.broncos.sql
+Nov 01 16:28:29 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446423958.colts.sql
+Nov 01 16:28:29 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446423958.laravel.sql
+Nov 01 16:28:29 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446423958.raiders.sql
+Nov 01 16:28:29 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446423958.steelers.sql
+Nov 01 16:28:29 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446424109.broncos.sql ]
+Nov 01 16:28:29 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446424109.colts.sql ]
+Nov 01 16:28:29 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446424109.laravel.sql ]
+Nov 01 16:28:29 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446424109.raiders.sql ]
+Nov 01 16:28:29 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446424109.steelers.sql ]
+Nov 01 16:28:35 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 16:29:00 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:29:00 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446424109.broncos.sql
+Nov 01 16:29:01 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446424109.colts.sql
+Nov 01 16:29:01 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446424109.laravel.sql
+Nov 01 16:29:01 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446424109.raiders.sql
+Nov 01 16:29:01 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446424109.steelers.sql
+Nov 01 16:29:01 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446424140.broncos.sql ]
+Nov 01 16:29:01 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446424140.colts.sql ]
+Nov 01 16:29:01 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446424140.laravel.sql ]
+Nov 01 16:29:01 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446424140.raiders.sql ]
+Nov 01 16:29:01 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446424140.steelers.sql ]
+Nov 01 16:30:19 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:30:19 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446424140.broncos.sql
+Nov 01 16:30:19 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446424140.colts.sql
+Nov 01 16:30:19 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446424140.laravel.sql
+Nov 01 16:30:19 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446424140.raiders.sql
+Nov 01 16:30:19 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446424140.steelers.sql
+Nov 01 16:30:19 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446424219.broncos.sql ]
+Nov 01 16:30:19 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446424219.colts.sql ]
+Nov 01 16:30:19 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446424219.laravel.sql ]
+Nov 01 16:30:19 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446424219.raiders.sql ]
+Nov 01 16:30:19 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446424219.steelers.sql ]
+Nov 01 16:33:57 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 16:33:57 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446424219.broncos.sql
+Nov 01 16:33:57 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446424219.colts.sql
+Nov 01 16:33:57 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446424219.laravel.sql
+Nov 01 16:33:57 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446424219.raiders.sql
+Nov 01 16:33:57 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446424219.steelers.sql
+Nov 01 16:33:57 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446424437.broncos.sql ]
+Nov 01 16:33:57 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446424437.colts.sql ]
+Nov 01 16:33:57 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446424437.laravel.sql ]
+Nov 01 16:33:57 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446424437.raiders.sql ]
+Nov 01 16:33:57 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446424437.steelers.sql ]
+Nov 01 17:27:17 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 17:27:17 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446424437.broncos.sql
+Nov 01 17:27:17 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446424437.colts.sql
+Nov 01 17:27:17 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446424437.laravel.sql
+Nov 01 17:27:17 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446424437.raiders.sql
+Nov 01 17:27:17 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446424437.steelers.sql
+Nov 01 17:27:17 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446427637.broncos.sql ]
+Nov 01 17:27:17 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446427637.colts.sql ]
+Nov 01 17:27:17 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446427637.laravel.sql ]
+Nov 01 17:27:17 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446427637.raiders.sql ]
+Nov 01 17:27:17 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446427637.steelers.sql ]
+Nov 01 18:01:55 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:01:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446427637.broncos.sql
+Nov 01 18:01:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446427637.colts.sql
+Nov 01 18:01:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446427637.laravel.sql
+Nov 01 18:01:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446427637.raiders.sql
+Nov 01 18:01:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446427637.steelers.sql
+Nov 01 18:01:59 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:02:00 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:06:44 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:07:04 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:07:04 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430024.broncos.sql ]
+Nov 01 18:07:04 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430024.colts.sql ]
+Nov 01 18:07:04 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430024.laravel.sql ]
+Nov 01 18:07:04 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430024.raiders.sql ]
+Nov 01 18:07:04 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430024.steelers.sql ]
+Nov 01 18:07:10 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:07:10 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430024.broncos.sql
+Nov 01 18:07:10 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430024.colts.sql
+Nov 01 18:07:10 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430024.laravel.sql
+Nov 01 18:07:10 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430024.raiders.sql
+Nov 01 18:07:10 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430024.steelers.sql
+Nov 01 18:07:10 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430030.broncos.sql ]
+Nov 01 18:07:10 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430030.colts.sql ]
+Nov 01 18:07:10 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430030.laravel.sql ]
+Nov 01 18:07:10 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430030.raiders.sql ]
+Nov 01 18:07:10 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430030.steelers.sql ]
+Nov 01 18:07:13 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:07:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430030.broncos.sql
+Nov 01 18:07:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430030.colts.sql
+Nov 01 18:07:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430030.laravel.sql
+Nov 01 18:07:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430030.raiders.sql
+Nov 01 18:07:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430030.steelers.sql
+Nov 01 18:07:14 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430033.broncos.sql ]
+Nov 01 18:07:14 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430033.colts.sql ]
+Nov 01 18:07:14 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430033.laravel.sql ]
+Nov 01 18:07:14 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430033.raiders.sql ]
+Nov 01 18:07:14 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430033.steelers.sql ]
+Nov 01 18:08:23 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:23 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430103.broncos.sql ]
+Nov 01 18:08:23 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430103.colts.sql ]
+Nov 01 18:08:23 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430103.laravel.sql ]
+Nov 01 18:08:23 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430103.raiders.sql ]
+Nov 01 18:08:23 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430103.steelers.sql ]
+Nov 01 18:08:24 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:24 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430104.broncos.sql ]
+Nov 01 18:08:24 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430104.colts.sql ]
+Nov 01 18:08:24 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430104.laravel.sql ]
+Nov 01 18:08:24 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430104.raiders.sql ]
+Nov 01 18:08:24 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430104.steelers.sql ]
+Nov 01 18:08:25 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:25 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430105.broncos.sql ]
+Nov 01 18:08:25 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430105.colts.sql ]
+Nov 01 18:08:25 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430105.laravel.sql ]
+Nov 01 18:08:25 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430105.raiders.sql ]
+Nov 01 18:08:25 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430105.steelers.sql ]
+Nov 01 18:08:27 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:27 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430107.broncos.sql ]
+Nov 01 18:08:27 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430107.colts.sql ]
+Nov 01 18:08:27 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430107.laravel.sql ]
+Nov 01 18:08:27 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430107.raiders.sql ]
+Nov 01 18:08:27 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430107.steelers.sql ]
+Nov 01 18:08:28 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:28 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430108.broncos.sql ]
+Nov 01 18:08:28 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430108.colts.sql ]
+Nov 01 18:08:28 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430108.laravel.sql ]
+Nov 01 18:08:28 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430108.raiders.sql ]
+Nov 01 18:08:28 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430108.steelers.sql ]
+Nov 01 18:08:35 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:08:35 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446430115.broncos.sql ]
+Nov 01 18:08:35 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446430115.colts.sql ]
+Nov 01 18:08:35 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446430115.laravel.sql ]
+Nov 01 18:08:35 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446430115.raiders.sql ]
+Nov 01 18:08:35 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446430115.steelers.sql ]
+Nov 01 18:28:35 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:28:36 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431315.broncos.sql ]
+Nov 01 18:28:36 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431315.colts.sql ]
+Nov 01 18:28:36 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431315.laravel.sql ]
+Nov 01 18:28:36 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431315.raiders.sql ]
+Nov 01 18:28:36 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431315.steelers.sql ]
+Nov 01 18:28:58 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:28:59 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431338.broncos.sql ]
+Nov 01 18:28:59 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431338.colts.sql ]
+Nov 01 18:28:59 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431338.laravel.sql ]
+Nov 01 18:28:59 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431338.raiders.sql ]
+Nov 01 18:28:59 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431338.steelers.sql ]
+Nov 01 18:29:11 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430033.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430103.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430104.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430105.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430107.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430108.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446430115.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431315.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431338.broncos.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430033.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430103.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430104.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430105.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430107.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430108.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446430115.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431315.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431338.colts.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430033.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430103.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430104.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430105.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430107.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430108.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446430115.laravel.sql
+Nov 01 18:29:11 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431315.laravel.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431338.laravel.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430033.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430103.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430104.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430105.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430107.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430108.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446430115.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431315.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431338.raiders.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430033.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430103.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430104.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430105.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430107.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430108.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446430115.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431315.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431338.steelers.sql
+Nov 01 18:29:12 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431351.broncos.sql ]
+Nov 01 18:29:12 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431351.colts.sql ]
+Nov 01 18:29:12 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431351.laravel.sql ]
+Nov 01 18:29:12 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431351.raiders.sql ]
+Nov 01 18:29:12 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431351.steelers.sql ]
+Nov 01 18:29:23 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:29:23 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431351.broncos.sql
+Nov 01 18:29:23 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431351.colts.sql
+Nov 01 18:29:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431351.laravel.sql
+Nov 01 18:29:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431351.raiders.sql
+Nov 01 18:29:24 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431351.steelers.sql
+Nov 01 18:29:24 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431363.broncos.sql ]
+Nov 01 18:29:24 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431363.colts.sql ]
+Nov 01 18:29:24 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431363.laravel.sql ]
+Nov 01 18:29:24 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431363.raiders.sql ]
+Nov 01 18:29:24 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431363.steelers.sql ]
+Nov 01 18:29:26 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:29:26 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431363.broncos.sql
+Nov 01 18:29:26 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431363.colts.sql
+Nov 01 18:29:26 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431363.laravel.sql
+Nov 01 18:29:26 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431363.raiders.sql
+Nov 01 18:29:26 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431363.steelers.sql
+Nov 01 18:29:26 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431366.broncos.sql ]
+Nov 01 18:29:26 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431366.colts.sql ]
+Nov 01 18:29:26 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431366.laravel.sql ]
+Nov 01 18:29:26 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431366.raiders.sql ]
+Nov 01 18:29:26 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431366.steelers.sql ]
+Nov 01 18:29:55 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:29:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431366.broncos.sql
+Nov 01 18:29:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431366.colts.sql
+Nov 01 18:29:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431366.laravel.sql
+Nov 01 18:29:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431366.raiders.sql
+Nov 01 18:29:55 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431366.steelers.sql
+Nov 01 18:29:55 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431395.broncos.sql ]
+Nov 01 18:29:55 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431395.colts.sql ]
+Nov 01 18:29:55 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431395.laravel.sql ]
+Nov 01 18:29:55 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431395.raiders.sql ]
+Nov 01 18:29:55 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431395.steelers.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431403.broncos.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431403.colts.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431403.laravel.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431403.raiders.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431403.steelers.sql ]
+Nov 01 18:30:03 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:03 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431403.broncos.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431403.colts.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431403.laravel.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431403.raiders.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431403.steelers.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431404.broncos.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431404.colts.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431404.laravel.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431404.raiders.sql ]
+Nov 01 18:30:04 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431404.steelers.sql ]
+Nov 01 18:30:05 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:05 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431405.broncos.sql ]
+Nov 01 18:30:05 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431405.colts.sql ]
+Nov 01 18:30:05 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431405.laravel.sql ]
+Nov 01 18:30:05 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431405.raiders.sql ]
+Nov 01 18:30:05 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431405.steelers.sql ]
+Nov 01 18:30:06 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:06 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431406.broncos.sql ]
+Nov 01 18:30:06 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431406.colts.sql ]
+Nov 01 18:30:06 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431406.laravel.sql ]
+Nov 01 18:30:06 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431406.raiders.sql ]
+Nov 01 18:30:06 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431406.steelers.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:07 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431407.broncos.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431407.colts.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431407.laravel.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431407.raiders.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431407.steelers.sql ]
+Nov 01 18:30:07 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:08 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431407.broncos.sql ]
+Nov 01 18:30:08 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431407.colts.sql ]
+Nov 01 18:30:08 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431407.laravel.sql ]
+Nov 01 18:30:08 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431407.raiders.sql ]
+Nov 01 18:30:08 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431407.steelers.sql ]
+Nov 01 18:30:08 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:09 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431408.broncos.sql ]
+Nov 01 18:30:09 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431408.colts.sql ]
+Nov 01 18:30:09 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431408.laravel.sql ]
+Nov 01 18:30:09 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431408.raiders.sql ]
+Nov 01 18:30:09 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431408.steelers.sql ]
+Nov 01 18:30:09 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:10 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431409.broncos.sql ]
+Nov 01 18:30:10 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431409.colts.sql ]
+Nov 01 18:30:10 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431409.laravel.sql ]
+Nov 01 18:30:10 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431409.raiders.sql ]
+Nov 01 18:30:10 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431409.steelers.sql ] ddd
+Nov 01 18:30:42 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:42 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431442.broncos.sql ]
+Nov 01 18:30:42 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431442.colts.sql ]
+Nov 01 18:30:42 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431442.laravel.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431442.raiders.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431442.steelers.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431443.broncos.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431443.colts.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431443.laravel.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431443.raiders.sql ]
+Nov 01 18:30:43 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431443.steelers.sql ]
+Nov 01 18:30:45 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:45 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431445.broncos.sql ]
+Nov 01 18:30:45 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431445.colts.sql ]
+Nov 01 18:30:45 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431445.laravel.sql ]
+Nov 01 18:30:45 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431445.raiders.sql ]
+Nov 01 18:30:45 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431445.steelers.sql ]
+Nov 01 18:30:46 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:46 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431446.broncos.sql ]
+Nov 01 18:30:46 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431446.colts.sql ]
+Nov 01 18:30:46 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431446.laravel.sql ]
+Nov 01 18:30:46 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431446.raiders.sql ]
+Nov 01 18:30:46 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431446.steelers.sql ]
+Nov 01 18:30:53 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:53 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431453.broncos.sql ]
+Nov 01 18:30:53 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431453.colts.sql ]
+Nov 01 18:30:53 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431453.laravel.sql ]
+Nov 01 18:30:53 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431453.raiders.sql ]
+Nov 01 18:30:53 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431453.steelers.sql ]
+Nov 01 18:30:54 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:55 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431454.broncos.sql ]
+Nov 01 18:30:55 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431454.colts.sql ]
+Nov 01 18:30:55 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431454.laravel.sql ]
+Nov 01 18:30:55 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431454.raiders.sql ]
+Nov 01 18:30:55 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431454.steelers.sql ]
+Nov 01 18:30:55 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:56 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431455.broncos.sql ]
+Nov 01 18:30:56 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431455.colts.sql ]
+Nov 01 18:30:56 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431455.laravel.sql ]
+Nov 01 18:30:56 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431455.raiders.sql ]
+Nov 01 18:30:56 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431455.steelers.sql ]
+Nov 01 18:30:56 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:30:57 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431456.broncos.sql ]
+Nov 01 18:30:57 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431456.colts.sql ]
+Nov 01 18:30:57 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431456.laravel.sql ]
+Nov 01 18:30:57 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431456.raiders.sql ]
+Nov 01 18:30:57 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431456.steelers.sql ]
+Nov 01 18:31:12 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431395.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431403.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431404.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431405.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431406.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431407.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431408.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431409.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431424.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431442.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431443.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431445.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431446.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431453.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431454.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431455.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/broncos/_dump.1446431456.broncos.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431395.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431403.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431404.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431405.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431406.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431407.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431408.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431409.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431424.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431442.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431443.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431445.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431446.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431453.colts.sql
+Nov 01 18:31:12 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431454.colts.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431455.colts.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/colts/_dump.1446431456.colts.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431395.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431403.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431404.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431405.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431406.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431407.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431408.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431409.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431424.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431442.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431443.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431445.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431446.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431453.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431454.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431455.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/laravel/_dump.1446431456.laravel.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431395.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431403.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431404.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431405.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431406.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431407.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431408.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431409.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431424.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431442.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431443.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431445.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431446.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431453.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431454.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431455.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/raiders/_dump.1446431456.raiders.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431395.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431403.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431404.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431405.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431406.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431407.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431408.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431409.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431424.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431442.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431443.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431445.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431446.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431453.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431454.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431455.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Removing: /Users/alex/Dropbox/Git/Projects/bash/mysqldumper/dumps/steelers/_dump.1446431456.steelers.sql
+Nov 01 18:31:13 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431472.broncos.sql ]
+Nov 01 18:31:13 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431472.colts.sql ]
+Nov 01 18:31:14 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431472.laravel.sql ]
+Nov 01 18:31:14 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431472.raiders.sql ]
+Nov 01 18:31:14 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431472.steelers.sql ]
+Nov 01 18:31:46 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:46 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431506.broncos.sql ]
+Nov 01 18:31:46 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431506.colts.sql ]
+Nov 01 18:31:46 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431506.laravel.sql ]
+Nov 01 18:31:46 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431506.raiders.sql ]
+Nov 01 18:31:46 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431506.steelers.sql ]
+Nov 01 18:31:49 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:49 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431509.broncos.sql ]
+Nov 01 18:31:49 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431509.colts.sql ]
+Nov 01 18:31:49 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431509.laravel.sql ]
+Nov 01 18:31:49 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431509.raiders.sql ]
+Nov 01 18:31:49 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431509.steelers.sql ]
+Nov 01 18:31:50 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:50 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431510.broncos.sql ]
+Nov 01 18:31:50 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431510.colts.sql ]
+Nov 01 18:31:50 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431510.laravel.sql ]
+Nov 01 18:31:50 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431510.raiders.sql ]
+Nov 01 18:31:50 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431510.steelers.sql ]
+Nov 01 18:31:51 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:51 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431511.broncos.sql ]
+Nov 01 18:31:51 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431511.colts.sql ]
+Nov 01 18:31:51 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431511.laravel.sql ]
+Nov 01 18:31:51 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431511.raiders.sql ]
+Nov 01 18:31:51 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431511.steelers.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431513.broncos.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431513.colts.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431513.laravel.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431513.raiders.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431513.steelers.sql ]
+Nov 01 18:31:53 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:31:53 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431513.broncos.sql ]
+Nov 01 18:31:54 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431513.colts.sql ]
+Nov 01 18:31:54 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431513.laravel.sql ]
+Nov 01 18:31:54 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431513.raiders.sql ]
+Nov 01 18:31:54 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431513.steelers.sql ]
+Nov 01 18:32:29 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:32:29 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431549.broncos.sql ]
+Nov 01 18:32:29 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431549.colts.sql ]
+Nov 01 18:32:29 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431549.laravel.sql ]
+Nov 01 18:32:29 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431549.raiders.sql ]
+Nov 01 18:32:29 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431549.steelers.sql ]
+Nov 01 18:32:30 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:32:30 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431550.broncos.sql ]
+Nov 01 18:32:30 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431550.colts.sql ]
+Nov 01 18:32:30 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431550.laravel.sql ]
+Nov 01 18:32:30 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431550.raiders.sql ]
+Nov 01 18:32:30 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431550.steelers.sql ]
+Nov 01 18:32:31 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:32:31 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431551.broncos.sql ]
+Nov 01 18:32:31 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431551.colts.sql ]
+Nov 01 18:32:31 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431551.laravel.sql ]
+Nov 01 18:32:31 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431551.raiders.sql ]
+Nov 01 18:32:31 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431551.steelers.sql ]
+Nov 01 18:32:32 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:32:32 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446431552.broncos.sql ]
+Nov 01 18:32:32 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446431552.colts.sql ]
+Nov 01 18:32:32 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446431552.laravel.sql ]
+Nov 01 18:32:32 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446431552.raiders.sql ]
+Nov 01 18:32:32 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446431552.steelers.sql ]
+Nov 01 18:54:40 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:54:40 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446432880.broncos.sql ]
+Nov 01 18:54:40 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446432880.colts.sql ]
+Nov 01 18:54:40 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446432880.laravel.sql ]
+Nov 01 18:54:40 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446432880.raiders.sql ]
+Nov 01 18:54:40 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446432880.steelers.sql ]
+Nov 01 18:55:07 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431472.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431506.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431509.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431510.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431511.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431513.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431549.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431550.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431551.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446431552.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/broncos/_dump.1446432880.broncos.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431472.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431506.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431509.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431510.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431511.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431513.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431549.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431550.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431551.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446431552.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/colts/_dump.1446432880.colts.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431472.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431506.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431509.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431510.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431511.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431513.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431549.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431550.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431551.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446431552.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/laravel/_dump.1446432880.laravel.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431472.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431506.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431509.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431510.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431511.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431513.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431549.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431550.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431551.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446431552.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/raiders/_dump.1446432880.raiders.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431472.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431506.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431509.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431510.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431511.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431513.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431549.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431550.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431551.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446431552.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Removing: ./dumps/steelers/_dump.1446432880.steelers.sql
+Nov 01 18:55:08 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446432907.broncos.sql ]
+Nov 01 18:55:08 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446432907.colts.sql ]
+Nov 01 18:55:08 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446432907.laravel.sql ]
+Nov 01 18:55:08 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446432907.raiders.sql ]
+Nov 01 18:55:09 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446432907.steelers.sql ]
+Nov 01 18:57:56 batman.local mysqldumper.sh : Cleaning Up Databases Older Than: 1 Days
+Nov 01 18:57:56 batman.local mysqldumper.sh : Dumping Database: [ broncos ] [ _dump.1446433076.broncos.sql ]
+Nov 01 18:57:56 batman.local mysqldumper.sh : Dumping Database: [ colts ] [ _dump.1446433076.colts.sql ]
+Nov 01 18:57:57 batman.local mysqldumper.sh : Dumping Database: [ laravel ] [ _dump.1446433076.laravel.sql ]
+Nov 01 18:57:57 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _dump.1446433076.raiders.sql ]
+Nov 01 18:57:57 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446433076.steelers.sql ]
+Nov 01 19:00:50 batman.local mysqldumper.sh : MySQL Server is not running
+Nov 01 19:01:42 batman.local mysqldumper.sh : MySQL Root Password Is Not Set, See [ ./conf/config.sh ]
