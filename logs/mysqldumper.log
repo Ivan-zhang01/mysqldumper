@@ -663,3 +663,4 @@ Nov 01 18:57:57 batman.local mysqldumper.sh : Dumping Database: [ raiders ] [ _d
 Nov 01 18:57:57 batman.local mysqldumper.sh : Dumping Database: [ steelers ] [ _dump.1446433076.steelers.sql ]
 Nov 01 19:00:50 batman.local mysqldumper.sh : MySQL Server is not running
 Nov 01 19:01:42 batman.local mysqldumper.sh : MySQL Root Password Is Not Set, See [ ./conf/config.sh ]
+

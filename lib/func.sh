@@ -97,7 +97,7 @@ dbCleanUp() {
     DUMPTIME="${db[1]}"
 
     # IF Databse is older then $DAYS Remove it
-    if [[ $(( $UNIXTIME - $DUMPTIME )) -gt '1' ]]; then
+    if [[ $(( $UNIXTIME - $DUMPTIME )) -gt $DAYSINSEC ]]; then
       message "Removing: ${finddbs[$i]}" "alert"
       log "Removing: ${finddbs[$i]}"
       # Remove Databses older than $DAYS
