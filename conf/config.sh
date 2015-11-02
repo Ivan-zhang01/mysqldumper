@@ -3,7 +3,7 @@ MYSQLROOTUSER="root"
 # Mysql ROOT Password
 MYSQLROOTPASSWD=""
 # Days To Keep Bakcup
-DAYS="1"
+DAYS="30"
 # Dump Location
 DUMP="${APPSPATH}/dumps"
 # PREFIX
